@@ -13,7 +13,7 @@ A simple to-do list application created using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can access the live demo of the project [here](<insert-your-github-pages-link>).
+You can access the live demo of the project [here](https://neerajcodes888.github.io/TO-DO-LIST/).
 
 ## Features
 
